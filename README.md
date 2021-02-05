@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome, Im NotTolon 👋
 
-<!--
-**NotTolon/NotTolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotTolon&layout=compact&theme=dark"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotTolon&show_icons=true&theme=dark"></p>
 
-Here are some ideas to get you started:
+My Discord is: Tolon#2502
 
 - 🔭 I’m currently working on ...
+* Vega.wtf (https://discord.gg/k2WXx7wGWD)
+* FaxHax (java)
+* Tolon.cc (C++)
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+* Java
+* C++
+
 - 💬 Ask me about ...
+* Cats
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Tolon#2502
+* admin@tolon.cc
+* tolon@vega.wtf
+
