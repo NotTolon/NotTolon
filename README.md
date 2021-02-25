@@ -1,7 +1,6 @@
 ### Welcome, Im NotTolon 👋
 
 <p><img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotTolon&layout=compact&theme=dark"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotTolon&show_icons=true&theme=dark"></p>
 
 ### 🔭 I’m currently working on ...
 * Vega.wtf (https://discord.gg/k2WXx7wGWD)
