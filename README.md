@@ -3,8 +3,6 @@
 ### 🔭 I’m currently working on ...
 * Vega.wtf (https://discord.gg/k2WXx7wGWD)
 * FaxHax (java)
-* Tolon.cc (C++)
-* Tolon.cc Blatant (java)
 
 ### 🌱 I’m currently learning ...
 * Java
