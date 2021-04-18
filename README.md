@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 * Vega.wtf (https://discord.gg/k2WXx7wGWD)
-* FaxHax (java)
+* Flash (c++ toolkit)
 
 ### 🌱 I’m currently learning ...
 * Java
