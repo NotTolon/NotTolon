@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on ...
 * Vega.wtf (https://discord.gg/k2WXx7wGWD)
-* Flash (c++ toolkit)
+* Flash (python toolkit)
 * DownUnder.au (1.12.2 client)
 
 ### 🌱 I’m currently learning ...
