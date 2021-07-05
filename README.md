@@ -1,7 +1,9 @@
 ## Welcome, Im NotTolon 👋
 
 ### 🔭 I’m currently working on ...
-* Nothing
+* Lazyware
+* Flash (python Toolkit
+* some random shit
 
 ### 🌱 I’m currently learning ...
 * Java
