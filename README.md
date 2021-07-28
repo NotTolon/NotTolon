@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on ...
 * Flash (python toolkit | Python)
 * Amber (1.8.9 external cheat | c++)
-* Tolon.cc (1.12.2 cheat | java)
+* Deimos (1.12.2 cheat | java)
 * some random shit
 
 ### 🌱 I’m currently learning ...
