@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on ...
 * Flash (python toolkit | Python)
 * Amber (1.8.9 external cheat | c++)
-* Deimos (1.12.2 cheat | java)
+* Latency (1.12.2 cheat | java)
 * some random shit
 
 ### 🌱 I’m currently learning ...
@@ -16,6 +16,4 @@
 
 ### 📫 How to reach me: ...
 * Tolon#2502
-* admin@tolon.cc
-* tolon@vega.wtf
 
