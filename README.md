@@ -4,6 +4,6 @@ Languages: C++/Java
 
 Main Project: Lynx.ac
 
-OS: Manjaro User
+OS: Manjaro
 
 Weight: 200kg
