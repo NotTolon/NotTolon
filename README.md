@@ -1,5 +1,9 @@
-Tolon#2502
+Discord: Tolon#2502
 
-C++/Java
+Languages: C++/Java
 
-Lynx.ac
+Main Project: Lynx.ac
+
+OS: Manjaro User
+
+Weight: 200kg
