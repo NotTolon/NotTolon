@@ -1,6 +1,6 @@
 Discord: Tolon#2502
 
-Languages: C++/Java/Python
+Languages: C++/Java
 
 Main Project: Lynx.ac
 
