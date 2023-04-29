@@ -1,5 +1,5 @@
-Discord: Tolon#2502
+Discord: shadowboxa#2502
 
 Languages: C++/Java
 
-Main Project: rozzerware
+Main Project: idk rn
